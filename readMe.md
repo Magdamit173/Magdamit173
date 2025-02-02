@@ -1,4 +1,4 @@
-![alt text](./printer.jpg)
+![alt text](./header.png)
 <h1 align="center"><font face="cursive">Hi, I'm Magdamit173! ~ 💻</font></h1>
 <center>
 <h3 align="center"><font face="cursive">"Aspiring to Master [REDACTED] and Perfecting the Art of Discovering New Since 2020" 💻✨</font></h3>
