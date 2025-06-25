@@ -9,6 +9,23 @@
 <code>
 Status: A former STEM Strand Student, Currently an ECE (Electronics And Communications Engineer) 2nd year student 
 </code>
+<hr>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magdamit173&layout=compact&langs_count=8&theme=tokyonight)
+
+![Magdamit173's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdamit173&show_icons=true&theme=tokyonight)
+
+![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square&logo=github)
+![Pokémon](https://img.shields.io/badge/Pokémon-Dashboard-yellow?style=flat-square&logo=pokemon)
+
+![Profile views](https://komarev.com/ghpvc/?username=Magdamit173&color=blue)
+
+![Visitor Count](https://profile-counter.glitch.me/Magdamit173/count.svg)
+
+![Visitor Badge](https://visitorbadge.io/status?path=Magdamit173)
 
 
 <hr>
@@ -35,7 +52,11 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 
 <hr>
 
-### <center> 🔧 Tools & IDEs </center>
+<p align="center">
+  <strong><font size="4">🔧 Tools & IDEs</font></strong>
+</p>
+
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" title="VS Code"/>
@@ -44,16 +65,24 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" title="Notion"/>
 </p>
 
-### <center> 🖌️ UI & Design </center>
+<p align="center">
+  <strong><font size="4">🖌️ UI & Design</font></strong>
+</p>
+
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="50" title="Blender"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="50" title="Tailwind CSS"/>
+          
 </p>
 
-### <center> 🔌 Programming Languages & Frameworks </center>
+<p align="center">
+  <strong><font size="4">🔌 Programming Languages & Frameworks</font></strong>
+</p>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
@@ -61,7 +90,10 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python"/>
 </p>
 
-### <center> 🧪 Data Science & Scripting </center>
+<p align="center">
+  <strong><font size="4">🧪 Data Science & Scripting</font></strong>
+</p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" title="Jupyter Notebook"/>
@@ -71,7 +103,11 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" width="50" title="PyScript"/>
 </p>
 
-### <center> ⚙️ DevOps & Backend </center>
+<p align="center">
+  <strong><font size="4">⚙️ DevOps & Backend</font></strong>
+</p>
+
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
@@ -79,16 +115,13 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="npm"/>
 </p>
 
-### <center> 🎮 Hardware, Game Dev & Embedded </center>
+<p align="center">
+  <strong><font size="4">🎮 Hardware, Game Dev & Embedded</font></strong>
+</p>
+
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="50" title="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="50" title="Godot"/>
 </p>
-
-
-<hr>
-
-## My Public Repo Summary
-
-<iframe width="600" height="600" src="https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?@Magdamit173" frameborder="0"></iframe>
