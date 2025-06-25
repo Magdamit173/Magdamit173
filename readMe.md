@@ -1,28 +1,46 @@
 ![alt text](./header_2.png)
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50" alt="Typing SVG">
+  <strong><font size="6">Hi, I'm Magdamit173! ~ 💻</font></strong><br>
+  
+  <h4 align="center"><font face="cursive">Aspiring to Master All!</font></h4>
+  <p align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led+💻✨&center=true&width=500&height=50" alt="Typing SVG" />
+  </p>
 </p>
 
-
-<h2 align="center"><font face="cursive">Aspiring to Master All</font></h2>
-<h4 align="center"><font face="cursive">Hardware-Bred, Code-Fed, Precision-Driven, Future-Led" 💻✨</font></h4>
-
-<hr>
 
 <code>
 Status: A former STEM Strand Student, Currently an ECE (Electronics And Communications Engineer) 2nd year student 
 </code>
+
 <hr>
 
-![Visitor Count](https://profile-counter.glitch.me/Magdamit173/count.svg)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://profile-counter.glitch.me/Magdamit173/count.svg" alt="Visitor Count" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magdamit173&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=Magdamit173&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Status-Building-blue?style=flat-square&logo=github" alt="Status" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pokémon-Dashboard-yellow?style=flat-square&logo=pokemon" alt="Pokémon" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magdamit173&layout=compact&langs_count=8&theme=tokyonight)
-
-![Magdamit173's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdamit173&show_icons=true&theme=tokyonight)
-
-![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square&logo=github)
-![Pokémon](https://img.shields.io/badge/Pokémon-Dashboard-yellow?style=flat-square&logo=pokemon)
 
 
 <hr>
