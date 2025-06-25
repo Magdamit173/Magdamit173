@@ -1,6 +1,8 @@
 ![alt text](./header_2.png)
-<h1 align="center"><font face="cursive">Hi, I'm Magdamit173! ~ 💻</font></h1>
-<center>
+<h1 align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50)
+</h1>
+
 <h2 align="center"><font face="cursive">Aspiring to Master All</font></h2>
 <h4 align="center"><font face="cursive">Hardware-Bred, Code-Fed, Precision-Driven, Future-Led" 💻✨</font></h4>
 
@@ -11,8 +13,7 @@ Status: A former STEM Strand Student, Currently an ECE (Electronics And Communic
 </code>
 <hr>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50)
-
+![Visitor Count](https://profile-counter.glitch.me/Magdamit173/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magdamit173&layout=compact&langs_count=8&theme=tokyonight)
 
@@ -20,12 +21,6 @@ Status: A former STEM Strand Student, Currently an ECE (Electronics And Communic
 
 ![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square&logo=github)
 ![Pokémon](https://img.shields.io/badge/Pokémon-Dashboard-yellow?style=flat-square&logo=pokemon)
-
-![Profile views](https://komarev.com/ghpvc/?username=Magdamit173&color=blue)
-
-![Visitor Count](https://profile-counter.glitch.me/Magdamit173/count.svg)
-
-![Visitor Badge](https://visitorbadge.io/status?path=Magdamit173)
 
 
 <hr>
