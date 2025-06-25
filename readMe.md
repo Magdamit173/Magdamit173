@@ -1,7 +1,9 @@
 ![alt text](./header_2.png)
-<h1 align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50)
-</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Magdamit173!+~+💻&center=true&width=500&height=50" alt="Typing SVG">
+</p>
+
 
 <h2 align="center"><font face="cursive">Aspiring to Master All</font></h2>
 <h4 align="center"><font face="cursive">Hardware-Bred, Code-Fed, Precision-Driven, Future-Led" 💻✨</font></h4>
