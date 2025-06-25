@@ -4,8 +4,9 @@
 <h1 align="center"><font face="cursive">Hi, I'm Magdamit173! ~ 💻</font></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led+💻✨&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led+💻✨&center=true&width=500&height=50" alt="Hardware-Bred, Code-Fed, Precision-Driven, Future-Led 💻✨" />
 </p>
+
 
 
 <code>
