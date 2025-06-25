@@ -53,7 +53,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 <hr>
 
 <p align="center">
-  <strong><font size="6">🔧 Tools & IDEs</font></strong>
+  <h3> 🔧 Tools & IDEs </h3>
 </p>
 
 
@@ -66,7 +66,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="center">
-  <strong><font size="8">🖌️ UI & Design</font></strong>
+  <h3> 🖌️ UI & Design </h3> 
 </p>
 
 
@@ -80,7 +80,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="center">
-  <strong><font size="6">🔌 Programming Languages & Frameworks</font></strong>
+  <h3> 🔌 Programming Languages & Frameworks </h3> 
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="center">
-  <strong><font size="6">🧪 Data Science & Scripting</font></strong>
+  <h3> 🧪 Data Science & Scripting </h3> 
 </p>
 
 
@@ -104,7 +104,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="center">
-  <strong><font size="6">⚙️ DevOps & Backend</font></strong>
+  <h3> ⚙️ DevOps & Backend </h3> 
 </p>
 
 
@@ -116,7 +116,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="center">
-  <strong><font size="6">🎮 Hardware, Game Dev & Embedded</font></strong>
+  <h3> 🎮 Hardware, Game Dev & Embedded </h3> 
 </p>
 
 
