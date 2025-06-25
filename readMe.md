@@ -1,13 +1,10 @@
 ![alt text](./header_2.png)
 
 
+<h1 align="center"><font face="cursive">Hi, I'm Magdamit173! ~ 💻</font></h1>
+
 <p align="center">
-  <strong><font size="6">Hi, I'm Magdamit173! ~ 💻</font></strong><br>
-  
-  <h4 align="center"><font face="cursive">Aspiring to Master All!</font></h4>
-  <p align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led+💻✨&center=true&width=500&height=50" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led+💻✨&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
 
