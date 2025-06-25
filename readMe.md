@@ -35,7 +35,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 
 <hr>
 
-### 🔧 Tools & IDEs
+### <center> 🔧 Tools & IDEs </center>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" title="VS Code"/>
@@ -44,7 +44,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" title="Notion"/>
 </p>
 
-### 🖌️ UI & Design
+### <center> 🖌️ UI & Design </center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="50" title="Blender"/>
@@ -53,7 +53,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" title="Tailwind CSS"/>
 </p>
 
-### 🔌 Programming Languages & Frameworks
+### <center> 🔌 Programming Languages & Frameworks </center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
@@ -61,7 +61,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python"/>
 </p>
 
-### 🧪 Data Science & Scripting
+### <center> 🧪 Data Science & Scripting </center>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" title="Jupyter Notebook"/>
@@ -71,7 +71,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pyscript/pyscript-original-wordmark.svg" width="50" title="PyScript"/>
 </p>
 
-### ⚙️ DevOps & Backend
+### <center> ⚙️ DevOps & Backend </center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
@@ -79,7 +79,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="npm"/>
 </p>
 
-### 🎮 Hardware, Game Dev & Embedded
+### <center> 🎮 Hardware, Game Dev & Embedded </center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="50" title="Unity"/>
