@@ -85,10 +85,10 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="50" title="Blender"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="50" title="Blender"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
 </p>
 
 <p align="left">
@@ -122,10 +122,10 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" title="npm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
 </p>
 
 <p align="left">
@@ -134,7 +134,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="50" title="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" width="50" title="Godot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" title="Arduino"/>
 </p>
