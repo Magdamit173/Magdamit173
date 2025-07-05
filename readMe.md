@@ -76,6 +76,7 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50" title="Notion"/>
+          
 </p>
 
 <p align="left">
@@ -91,14 +92,15 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 </p>
 
 <p align="left">
-  <h3> 🔌 Programming Languages & Frameworks </h3> 
+  <h3> 🔌 Programming Languages </h3> 
 </p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="50" title="Fortran" />
 </p>
 
 <p align="left">
