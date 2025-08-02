@@ -7,13 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Hardware-Bred;Code-Fed;Precision-Driven;Future-Led&center=true&width=500&height=50" alt="Hardware-Bred, Code-Fed, Precision-Driven, Future-Led 💻✨" />
 </p>
 
-
-
-<code>
-Status: A former STEM Strand Student, Currently an ECE (Electronics And Communications Engineer) 2nd year student 
-</code>
-
 <hr>
+
 
 <table align="center">
   <tr>
@@ -23,9 +18,14 @@ Status: A former STEM Strand Student, Currently an ECE (Electronics And Communic
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magdamit173&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
     </td>
+    <td> 
+        <a href="https://data.typeracer.com/pit/profile?user=snk106&ref=badge" target="_top">
+        <img src="https://data.typeracer.com/misc/badge?user=snk106" border="0" alt="TypeRacer.com scorecard for user snk106"/>
+        </a>
+    </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="3">
       <img src="https://github-readme-stats.vercel.app/api?username=Magdamit173&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
