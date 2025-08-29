@@ -60,8 +60,8 @@ Hobbys: "( • ᴖ • ｡) Continual Discovery, Definitely Electronics and Prog
 ### Languages And Tools: 
 | Javascript | PHP | C# | Python |
 |------------|-----|----|--------|
-| Met Since 2020 | Partially Knows Since 2021 | Partially Knows Since 2022 | Met Since 2023 | 
-| All programming languages have similar core concepts. | Each language shares common principles like variables and loops. | The main differences lie in syntax and libraries. | Understanding one language aids in learning others. |
+| Started In 2020 | Partially Knows Since 2021 | Partially Knows Since 2022 | I Met At 2023 | 
+| My First Programming Language | The language that get me back at programming despite not fully understanding it | A programming language that let me experience fun even with difficulties leveraging math| A programming language that prioritize practicality over syntax |
 
 <hr>
 
